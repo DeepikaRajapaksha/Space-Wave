@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Wave</title>
+    <link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/c1c654da38.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+     <header class="header">
+        <div class="container">
+            <h1 class="logo">Space Wave</h1>
+            <nav class="navigation">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="Space Website.html">Home</a></li>
+                    <li class="nav-item"><a href="About Us.html">About Us</a></li>
+                    <li class="nav-item"><a href="Space Technology.html">Space Technology</a></li>
+                    <li class="nav-item"><a href="Gallery.html">Gallery</a></li>
+                   <li class="nav-item"><a href="Contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+		
+    </header>
+ 
+    <!----- About Us content----->
+	
+	<h1> <center><i> About Space Wave...<i></center></h1>
+	
+	<section class= "about-us">
+	    <div class ="row">
+		    <div class="about-col">
+			     <h3>Our History</h3>
+      <font color=" #34495E">
+
+    In the early 2020s, a group of avid space enthusiasts embarked on a mission to create a digital sanctuary for all things celestial. 
+This vision culminated in the birth of "Space Wave," a website dedicated to unraveling the mysteries of the universe. Initially a 
+modest platform, it quickly garnered a loyal following of space aficionados eager to delve deeper into the cosmos.
+<br>
+<br>
+    As the years unfolded, "Space Wave" evolved in tandem with technological advancements and an ever-expanding space community. 
+What began as a repository of informative articles soon blossomed into a dynamic space hub, offering interactive 3D models, 
+virtual tours of cosmic landscapes, and live broadcasts of celestial events. The website's commitment to accuracy and accessibility 
+ensured that everyone, from budding stargazers to seasoned astronomers, found a welcoming home among the stars.
+<br>
+<br>
+    Today, "Space Wave" stands as a testament to human curiosity and the unquenchable thirst for cosmic knowledge. Its impact 
+reaches far beyond the confines of the digital realm, inspiring countless individuals to gaze upwards and wonder about the
+ boundless universe that surrounds us. The legacy of "Space Wave" lies not only in its wealth of information but in the countless 
+ minds it ignited with a fervor for the final frontier..</font>
+
+
+
+<h3>Our Mission</h3>
+    <font color=" #34495E"> 
+
+    At Space Wave Adventures, we are dedicated to fostering a deep appreciation for space exploration and inspiring a new generation of space pioneers.
+ Through informative content, engaging discussions, and a vibrant community, we aim to make the cosmos accessible to everyone.</font>”</p>
+            </div>
+			<div class="about-col">
+			<img src="https://e3.365dm.com/23/09/768x432/skynews-space-comp-comp_6284374.jpg?20230914120242">
+			<p><h3>Our Team</h3>
+     <font color=" #34495E">
+
+    Meet the passionate individuals behind Space Odyssey Adventures. Our team comprises experts in astrophysics, aerospace engineering, 
+and science communication, all united by a common goal: to share the wonders of space with the world.</font>
+
+<h3> Get in Touch</h3>
+  <font color=" #34495E">
+
+    We value your feedback and ideas. Whether you have questions, suggestions, or just want to say hello, 
+feel free to reach out. We'd love to hear from you!</font>
+
+ 
+			</div>
+		</div>	
+		<center><a href="Space Website.html" class="hero-btn red-btn">EXPLORE NOW</a></center>
+	</section>
+
+<section class="footer1">
+	    <h4> About us</h4>
+		<p>Space wave is a platform dedicated to celebrating space exploration.
+		Our team of enthusiasts and experts curates engaging content, interactive features, and a thriving community for 
+		enthusiasts of all levels.<br> Join us on this celestial journey! </p>
+		<div class="icons">
+		    <i class="fa fa-facebook"></i>
+			<i class="fa fa-twitter"></i>
+			<i class="fa fa-instagram"></i>
+			<i class="fa fa-linkedin"></i>
+		
+		</div>
+	        <p>Made with <i class="fa fa-heart-o"></i> by Deepika Sewwandi</p><br><br><br>
+	</section>
+
+    <footer class="footer">
+	
+        <div class="container">
+            <p>&copy; 2022 Space Wave. All rights reserved.</p>
+        </div>
+    </footer>
+	
+	</body>
+	</html>

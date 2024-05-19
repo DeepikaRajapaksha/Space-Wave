@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Wave</title>
+    <link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/c1c654da38.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Space Wave</h1>
+            <nav class="navigation">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="Space Website.html">Home</a></li>
+                    <li class="nav-item"><a href="About Us.html">About Us</a></li>
+                    <li class="nav-item"><a href="Space Technology.html">Space Technology</a></li>
+                    <li class="nav-item"><a href="Gallery.html">Gallery</a></li>
+                    <li class="nav-item"><a href="Contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+		
+    </header>
+    <section class="text-box">
+    <a href="Space Website.html">
+        <div class="image-container">
+            <img src="https://ychef.files.bbci.co.uk/976x549/p02z4vp3.jpg" alt="Space Image">
+            <div class="image-text">
+                <h1 class="main-title"><font color="##FDFEFE">Welcome to Space Wave</font></h1><br>
+                <h2 class="sub-title"><font color="#F4F6F7">Where Dreams Meet the Universe</font></h2><br><br>
+                <a href="About Us.html" class="hero-btn">Visit Us To Know More...</a>
+            </div>
+        </div>
+    </a>
+    </section>
+
+<section class="hero">
+    <h1>Welcome to Space Wave Adventures!</h1>
+    <h2><font color="#808B96">Explore the Final Frontier with Us</font></h2>
+</section>
+
+<section class="explore">
+        <h2>Discover the Universe</h2>
+        <h3><font color="#808B96">Embark on a journey through the vastness of space, from the mesmerizing beauty of distant galaxies to the 
+		cutting-edge technology propelling us towards new frontiers.</font></h3>
+		<div class="row">
+		   <div class="container-col">
+			    <img src="https://scx2.b-cdn.net/gfx/news/hires/2022/the-tilt-in-our-stars.jpg">
+			        <h3>Milky Way </h3>
+			            <p>The Milky Way is a barred spiral galaxy containing our Solar System, with billions of stars, a supermassive black hole, 
+						and a collision course with Andromeda in the future.<br>
+						<a href="https://www.youtube.com/watch?v=w5LEtILN8vI">Visit to Milky Way</a>
+</p>
+			</div>
+			<div class="container-col">
+			    <img src="https://www.theschoolrun.com/sites/theschoolrun.com/files/istock_000015579600medium.jpg">
+			        <h3> Solar System</h3>
+			            <p>The solar system comprises the Sun, eight planets, their moons, and various celestial objects orbiting the Sun, 
+						including asteroids and comets.<br> 
+						<a href="https://www.youtube.com/watch?v=libKVRa01L8">Visit to Solar System</a>
+</p>
+			</div>
+			<div class="container-col">
+			    <img src="https://scitechdaily.com/images/Black-Hole-Event-Horizon-Artistic-Illustration.jpg">
+			        <h3>Black Hole</h3>
+			            <p>A black hole is an extremely dense region in space where gravity is so strong that not even light can escape. 
+						It forms from the remnants of massive collapsed stars.<br>
+                        <a href="https://www.youtube.com/watch?v=kOEDG3j1bjs">Visit to Balck Hole</a>
+						</p>
+			</div>
+			<div class="container-col">
+			    <img src="https://i.natgeofe.com/n/88420695-3555-4f84-90be-8f7903a1a57e/01_58_51a_remotesite-2-frame-8_4x3.jpg">
+			        <h3> Rocket Launches</h3>
+			            <p>Rocket launches involve propelling a spacecraft or payload into space using a rocket. This involves controlled explosions 
+						of propellant to generate the necessary thrust to overcome Earth's gravity.<br> 
+						<a href="https://www.youtube.com/watch?v=1yBwWLunlOM">Visit to Rocket Launches </a>
+</p>
+			</div>
+		</div>
+    
+</section>
+
+<section class="latest-news">
+        <h2>Latest News and Insights</h2>
+        <h3><font color="#808B96">Stay updated with the latest developments in space exploration. Our expertly curated articles and news pieces provide
+		a comprehensive view of the ever-evolving space industry.</font></h3>
+	<center>
+	<div class="container1">
+	    <div class="swiper">
+  
+  <div class="swiper-wrapper">
+   
+    <div class="swiper-slide"><img src ="https://images.moneycontrol.com/static-mcnews/2023/01/7-Upcoming-Space-Missions-2023-770x433.jpg"></div>
+	<div class="swiper-slide"><img src ="https://images.moneycontrol.com/static-mcnews/2023/01/6-Upcoming-Space-Missions-2023.jpg"></div>
+	<div class="swiper-slide"><img src ="https://images.moneycontrol.com/static-mcnews/2023/01/3-Upcoming-Space-Missions-2023.jpg"></div>
+	<div class="swiper-slide"><img src ="https://images.moneycontrol.com/static-mcnews/2023/01/5-Upcoming-Space-Missions-2023.jpg"></div>
+	<div class="swiper-slide"><img src ="https://images.moneycontrol.com/static-mcnews/2023/01/1-Upcoming-Space-Missions-2023.jpg"></div>
+    
+ 
+  </div>
+  
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+</div>
+         	
+    </div>
+	</center>
+</section>
+
+     <!----testimonials--->
+	
+	<section class="testimonials">
+	    <h1> What our viewers Says</h1>
+		<p>We are praised and thanked by all who have availed our services.</p>
+		
+		<div class="row">
+		    <div class="testimonial-col">
+			    <img src="https://wallpapercave.com/wp/wp6149512.jpg">
+				<div>
+				    <p>Space Wave Adventures delivers an impressive blend of informative content and engaging features for space enthusiasts.
+					Detailed articles, interactive 3D models, and a thriving community make for an enthralling cosmic journey. Kudos to the creators!.</p>
+					<h3> Anna Gomas</h3>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star-o"></i>
+					
+				</div>
+			</div>
+			<div class="testimonial-col">
+			    <img src="https://icon2.cleanpng.com/20180312/joe/kisspng-pop-art-comics-royalty-free-illustration-a-thumbs-up-man-5aa6db7d109d83.0322625315208846050681.jpg">
+				<div>
+				    <p>Space Wave Adventures is a meticulously curated treasure trove for space enthusiasts. It offers a wealth of information, from galaxies to cutting-edge 
+					technology, while fostering a vibrant community. The virtual tours and interactive tools add an educational 
+					and fun dimension. It's my go-to source for the latest space discoveries. Highly recommended.</p>
+					<h3> William Fernando </h3>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star"></i>
+					<i class="fa fa-star-half-o"></i>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
+    <section class="footer1">
+	    <h4> About us</h4>
+		<p>Space wave is a platform dedicated to celebrating space exploration.
+		Our team of enthusiasts and experts curates engaging content, interactive features, and a thriving community for 
+		enthusiasts of all levels.<br> Join us on this celestial journey! </p>
+		<div class="icons">
+		    <i class="fa fa-facebook"></i>
+			<i class="fa fa-twitter"></i>
+			<i class="fa fa-instagram"></i>
+			<i class="fa fa-linkedin"></i>
+		
+		</div>
+	        <p>Made with <i class="fa fa-heart-o"></i> by Deepika Sewwandi</p><br><br><br>
+	</section>
+
+    <footer class="footer">
+	
+        <div class="container">
+            <p>&copy; 2022 Space Wave. All rights reserved.</p>
+        </div>
+    </footer>
+	
+	<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+	<script>
+	const swiper = new Swiper('.swiper', {
+       autoplay:{
+	   delay: 3000,
+	   disableOnInteraction: false,
+	   },
+  loop: true,
+
+  pagination: {
+    el: '.swiper-pagination',
+	clickable: true, 
+  },
+
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+});
+	</script>
+</body>
+</html>

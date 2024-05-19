@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Wave</title>
+    <link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/c1c654da38.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+     <header class="header">
+        <div class="container">
+            <h1 class="logo">Space Wave</h1>
+            <nav class="navigation">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="Space Website.html">Home</a></li>
+                    <li class="nav-item"><a href="About Us.html">About Us</a></li>
+                    <li class="nav-item"><a href="Space Technology.html">Space Technology</a></li>
+                    <li class="nav-item"><a href="Gallery.html">Gallery</a></li>
+                    <li class="nav-item"><a href="Contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+		
+    </header>
+	
+	<!--- blog page content---->
+	<h1><center> Images & Videos</center></h1>
+	
+	<section class="blog-content">
+	    <div class="row">
+		    <div class="blog-col">
+		        <img src="https://cdn.spacetelescope.org/archives/videos/videoframe/heic1803a.jpg">
+				
+			</div>	
+			<div class="blog-col">
+		        <img src="https://media.istockphoto.com/id/865585176/video/galaxy-zoom.jpg?s=640x640&k=20&c=PDvT-v3aXU4aTT3xQWykuT0aRQnTWh9ifRplUaC-b6Y=">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://media.istockphoto.com/id/1283457634/video/seamless-loop-galaxy-exploration-through-outer-space-towards-glowing-milky-way-
+				galaxy-4k.jpg?s=640x640&k=20&c=D7mQ2eaRx-il7_gsiP4G8wNJo38VysDf05slttmAdc0=">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://media.gettyimages.com/id/1403817732/video/flying-away-from-the-nebula.jpg?s=640x640&k=20&c=_Va4HotgrhAlB7kDRPTknSX0Cb1TbhsB51VcYBK27n0=">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://media.gettyimages.com/id/1291167153/video/4k-3d-beautiful-galaxy-with-bright-twinkling-stars-flying-in-deep-space-
+				abstract-view.jpg?s=640x640&k=20&c=Y9HgGwlej5StYg2vrohOGe3bYCFk6-VNp5fU3q2ZVsQ=">
+				
+			</div>
+		</div>
+		
+		 <div class="row">
+		    <div class="blog-col">
+		        <img src="https://t4.ftcdn.net/jpg/05/56/16/81/360_F_556168144_qEINHd6qUsQH4b6wDvgOS0WtuShVwJVm.jpg">
+				
+			</div>	
+			<div class="blog-col">
+		        <img src="https://cdn.zeebiz.com/sites/default/files/2022/11/18/211394-ezgifcom-gif-maker-3.jpg">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://www.fi.edu/sites/default/files/2021-11/spacexarabsat6a_0.jpg">
+			
+			</div>
+			<div class="blog-col">
+		        <img src="https://t3.ftcdn.net/jpg/05/58/59/78/360_F_558597869_9iWHODEeht6tqGHU8O0MsJOVTl2RamFu.jpg">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://www.floridatoday.com/gcdn/presto/2018/09/07/PBRE/2a0dc85f-d649-49fe-9c0a-843cf84c07a0-telstar19v_launch1.jpg">
+		
+			</div>
+		</div>
+		
+		 <div class="row">
+		    <div class="blog-col">
+		        <img src="https://www.hytera.com/iwov-resources/hytera/02_products/4_banner_image/catagory_satellite_banner.jpg">
+				
+			</div>	
+			<div class="blog-col">
+		        <img src="https://pbs.twimg.com/media/FIRA6_5acAIrPyl?format=jpg&name=medium">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AzsKVAx4Qbn0j5adJ7yf-i1d5YQ1upoN7du1G8AFJbbC5dc45w89Yx79TvwMp3iVCPE&usqp=CAU">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://cdn.downtoearth.org.in/library/large/2022-10-19/0.32197700_1666181610_earth.jpg">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://e3.365dm.com/23/04/2048x1152/skynews-rhessi-satellite_6125393.jpg">
+				
+			</div>
+		</div>
+		
+		 <div class="row">
+		    <div class="blog-col">
+		        <img src="https://www.orcadian.co.uk/wp-content/uploads/2015/10/solarsystem.jpg">
+				
+			</div>	
+			<div class="blog-col">
+		        <img src="https://qph.cf2.quoracdn.net/main-qimg-93a3b8d1723268a775b698f216607da2-lq">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/12/932/524/vlcsnap-2022-12-28-16h24m57s893.jpg?ve=1&tl=1">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://images.pexels.com/videos/856309/free-video-856309.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+			
+			</div>
+			<div class="blog-col">
+		        <img src="https://rare-gallery.com/thumbs/750178-Planets-Nebulae-in-space-Natural-satellite-Planetary.jpg">
+				
+			</div>
+		</div>
+		
+		 <div class="row">
+		    <div class="blog-col">
+		        <img src="https://mars.nasa.gov/layout/mars2020/images/PIA23764-RoverNamePlateonMars-web.jpg">
+				
+			</div>	
+			<div class="blog-col">
+		        <img src="https://mars.nasa.gov/system/resources/detail_files/25045_Perseverance_Mars_Rover_Instrument_Labels-web.jpg">
+				
+			</div>
+			<div class="blog-col">
+		        <img src="https://scitechdaily.com/images/Black-Hole-Event-Horizon-Artistic-Illustration.jpg">
+			
+			</div>
+			<div class="blog-col">
+		        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBG1c1ZpxYK5DsUSKAm34m_CibVLAISXvchQ&usqp=CAU">
+			
+			</div>
+			<div class="blog-col">
+		        <img src="https://ychef.files.bbci.co.uk/1280x720/p0fmznl6.jpg">
+				
+			</div>
+		</div>
+		
+	</section>
+	
+	<center> <a href="https://www.google.com/search?sca_esv=566290925&sxsrf=AM9HkKn1fRTX3OysKhEb7cKMuiMd8rreEQ:
+	1695050867000&q=Space+image+and+video&tbm=isch&source=univ&fir=nSL9XqGy_hk-1M%252C6Em6HZwf8ng9MM%252C_%253BIZ2nS6fno_
+	yDzM%252CJVDgDfsBUgxtUM%252C_%253BN3tAkNlmiwokhM%252COZ9LkFYq-j7fGM%252C_%253Bdu6u6V-bgKwGMM%252CtFban56iGLPp2M%252C_
+	%253BmEz8vFp3nHOj9M%252Ctqd0FjVe7ZAbfM%252C_%253Be9LRYHFtnutENM%252CLX_gJs0mvMa9uM%252C_%253BWkg0X8MXKV-FXM%252CiH9eBRhoiKJHsM%
+	252C_%253B_2BJjvkSl3jZhM%252CIgkTbJ2ezYtgcM%252C_%253B_iRlDi_9Yv7XKM%252C8Bmz_Kam1okyyM%252C_%253BWBMFN0_WBr4VTM%252CtFban56iGLPp2M%252C_
+	&usg=AI4_-kQLbeh8nODWxI0nn66qcABMpd-OYg&sa=X&ved=2ahUKEwityLbGvLSBAxWE3TgGHeujAC4QjJkEegQIGxAC&biw=1536&bih=739&dpr=1.25" 
+	class="hero-btn red-btn">SEE MORE...</a></center>
+	
+	<section class="footer1">
+	    <h4> About us</h4>
+		<p>Space wave is a platform dedicated to celebrating space exploration.
+		Our team of enthusiasts and experts curates engaging content, interactive features, and a thriving community for 
+		enthusiasts of all levels.<br> Join us on this celestial journey! </p>
+		<div class="icons">
+		    <i class="fa fa-facebook"></i>
+			<i class="fa fa-twitter"></i>
+			<i class="fa fa-instagram"></i>
+			<i class="fa fa-linkedin"></i>
+		
+		</div>
+	        <p>Made with <i class="fa fa-heart-o"></i> by Deepika Sewwandi</p><br><br><br>
+	</section>
+
+    <footer class="footer">
+	
+        <div class="container">
+            <p>&copy; 2022 Space Wave. All rights reserved.</p>
+        </div>
+    </footer>
+	
+	</body>
+	</html>

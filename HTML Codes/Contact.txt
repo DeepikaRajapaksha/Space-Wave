@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Wave</title>
+    <link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/c1c654da38.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+     <header class="header">
+        <div class="container">
+            <h1 class="logo">Space Wave</h1>
+            <nav class="navigation">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="Space Website.html">Home</a></li>
+                    <li class="nav-item"><a href="About Us.html">About Us</a></li>
+                    <li class="nav-item"><a href="Space Technology.html">Space Technology</a></li>
+                    <li class="nav-item"><a href="Gallery.html">Gallery</a></li>
+                    <li class="nav-item"><a href="Contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+		
+    </header>
+	
+	<!-----contact us--->
+	<center>
+	    <h1>Space Wave Institute</h1>
+	</center>
+	
+	<section class="location">
+	  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57316.702107541845!2d80.
+	  52311797279273!3d6.344579108603807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3e217f98c14e1%
+	  3A0xa539e0eb604e1f7d!2sDeniyaya!5e0!3m2!1sen!2slk!4v1695047550285!5m2!1sen!2slk" width="600" height="450"
+	  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</section>
+	
+	<section class="contact-us">
+	    <div class="row">
+		    <div class="contact-col">
+			    <div>
+				    <i class="fa fa-home"></i>
+				    <span>
+					    <h5>Viharahena, Deniyaya, Matara</h5>
+						<p>Matara, Sri Lanks</p>
+					</span>
+				</div>
+				<div>
+				    <i class="fa fa-phone"></i>
+				    <span>
+					    <h5>+94 158 453 586</h5>
+						<p>Monday to Sunday, 24hours</p>
+					</span>
+				</div>
+				<div>
+				    <i class="fa fa-envelope-o"></i>
+				    <span>
+					    <h5>deepika_s_rajapaksha@gmail.com</h5>
+						<p>Email us your medical report</p>
+					</span>
+				</div>
+			</div>
+			<div class="contact-col">
+			    <center><h2> Tell me about Us.</h2></center>
+			    <form action="">
+				    <input type="text" placeholder="First name" required>
+					<input type="text" placeholder="Last name" required>
+					<input type="text" placeholder="Email" required>
+					<input type="text" placeholder="Mobile" required>
+					<textarea rows="8" placeholder="Please tell us about your inquiry" required></textarea>
+					<button type="submit" class="hero-btn red-btn"> SEND </button>
+				</form>
+			</div>
+		</div>
+	</section>
+	
+	<section class="footer1">
+	    <h4> About us</h4>
+		<p>Space wave is a platform dedicated to celebrating space exploration.
+		Our team of enthusiasts and experts curates engaging content, interactive features, and a thriving community for 
+		enthusiasts of all levels.<br> Join us on this celestial journey! </p>
+		<div class="icons">
+		    <i class="fa fa-facebook"></i>
+			<i class="fa fa-twitter"></i>
+			<i class="fa fa-instagram"></i>
+			<i class="fa fa-linkedin"></i>
+		
+		</div>
+	        <p>Made with <i class="fa fa-heart-o"></i> by Deepika Sewwandi</p><br><br><br>
+	</section>
+
+    <footer class="footer">
+	
+        <div class="container">
+            <p>&copy; 2022 Space Wave. All rights reserved.</p>
+        </div>
+    </footer>
+	
+	</body>
+	</html>
